@@ -1,2 +1,0 @@
-- name: Run Python Script
-  uses: jannekem/run-python-script-action@v1.3

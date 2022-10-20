@@ -45,6 +45,45 @@ time.sleep(2)
 print("")
 print("<system>caller disconnected")
 time.sleep(2)
+print("")
+print("<system>s.a.i connected")
+time.sleep(2)
+print("")
+print("<s.a.i>i am back,lets finish this call")
+time.sleep(2)
+print("")
+print("<s.a.i>what is your favorite food?")
+q2=(input())
+print("")
+print("<you>",(q2))
+time.sleep(2.0)
+print("")
+print("<s.a.i>what is your social security number?")
+time.sleep(1.0)
+print("")
+print("<s.a.i>what is you favorite type of dog?")
+time.sleep(0.5)
+print("")
+print("<s.a.i>what is your ip address?")
+time.sleep(0.25)
+print("")
+print("<s.a.i>are you alone? type y or n")
+q3=(input())
+if q3 == y:
+  time.sleep(2)
+  print("")
+  print("<s.a.i>lies,lies they say you are actually not alone,liar.")
+elif q3 == n:
+  time.sleep(2)
+print("")
+print("<s.a.i>that is correct you are not alone.")
+
+
+
+  
+  
+  
+
 
 
 
